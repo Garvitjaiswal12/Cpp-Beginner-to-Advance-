@@ -10,3 +10,4 @@ int main() {
     cout<<"age "<<age<<endl<<"height "<<height<<endl<<"sex "<<sex<<endl<< "isit "<<isit<<endl;
     return 0;
 }
+// if we dont set a default value for a boolean variable by default it will give 0 or false
