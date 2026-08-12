@@ -18,7 +18,15 @@ int main() {
     cout<<fmod(a,b);
     return 0;
 }
-
-
-
+// short hand operator : +=,-=,*=,/=,%=
+ #include <iostream>
+using namespace std;
+int main() {
+    int a,b;
+    cout<<"enter a and b ";
+    cin>> a>> b;
+    a+=b;
+    cout<<a;
+    return 0;
+}
 
